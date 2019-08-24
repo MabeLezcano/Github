@@ -10,7 +10,7 @@ namespace ClasePractica
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Primer Cambio");
 
         }
     }
